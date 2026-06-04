@@ -1,0 +1,19 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="500" height="500" rx="60" fill="white"/>
+  <rect x="2" y="2" width="496" height="496" rx="58" fill="none" stroke="#FF6B00" stroke-width="4"/>
+  <path d="M250 155 m-90 0 a90 78 0 0 1 180 0 Z" fill="none" stroke="#FF6B00" stroke-width="7"/>
+  <circle cx="250" cy="148" r="12" fill="#FF6B00"/>
+  <line x1="140" y1="230" x2="368" y2="230" stroke="#FF6B00" stroke-width="10" stroke-linecap="round"/>
+  <line x1="143" y1="222" x2="143" y2="208" stroke="#FF6B00" stroke-width="5" stroke-linecap="round"/>
+  <line x1="158" y1="222" x2="158" y2="206" stroke="#FF6B00" stroke-width="5" stroke-linecap="round"/>
+  <line x1="173" y1="222" x2="173" y2="208" stroke="#FF6B00" stroke-width="5" stroke-linecap="round"/>
+  <path d="M358 222 L372 230 L358 238" fill="#FF6B00"/>
+  <rect x="190" y="183" width="20" height="47" rx="3" fill="#1a1a2e"/>
+  <rect x="213" y="170" width="24" height="60" rx="3" fill="#1a1a2e"/>
+  <rect x="241" y="178" width="30" height="52" rx="3" fill="#1a1a2e"/>
+  <rect x="276" y="187" width="20" height="43" rx="3" fill="#1a1a2e"/>
+  <rect x="170" y="192" width="18" height="38" rx="3" fill="#1a1a2e"/>
+  <text x="250" y="340" text-anchor="middle" font-size="80" font-weight="800" fill="#1a1a2e" font-family="Arial Black, sans-serif">Urban</text>
+  <text x="250" y="415" text-anchor="middle" font-size="80" font-weight="800" fill="#FF6B00" font-family="Arial Black, sans-serif">Eats</text>
+  <text x="250" y="458" text-anchor="middle" font-size="14" fill="#999" font-family="Arial, sans-serif" letter-spacing="2">Good Food, Great Mood</text>
+</svg>
